@@ -141,7 +141,7 @@ img {
         flex-wrap: wrap;
     }
 
-    .row .col:not(:last-child):{
+    .row .col:not(:last-child){
         margin-bottom: 50px;
     }
 
