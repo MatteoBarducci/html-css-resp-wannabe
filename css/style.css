@@ -141,8 +141,16 @@ img {
         flex-wrap: wrap;
     }
 
+    .row .col:not(:last-child):{
+        margin-bottom: 50px;
+    }
+
     .lessons .col, .why-us .col-left, .why-us .col-right, .steps .col{
         width: 100%;
+    }
+
+    .why-us{
+        background-color: #222222;
     }
     
 }
